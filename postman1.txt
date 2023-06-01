@@ -1,5 +1,3 @@
-Notes
-
 Headers
 This is how you retrieve a header from the response:
 
